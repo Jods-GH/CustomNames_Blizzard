@@ -1,0 +1,26 @@
+## Interface: 120105, 120107, 16001, 50504, 38002, 20506, 11509
+## Title: CustomNames_Blizzard
+## Version: @project-version@
+## Notes: Adds Blizzard Unit Frames support for CustomNames
+## Author: Jods
+## X-Curse-Project-ID: 1802198
+## X-Wago-ID: 
+## IconTexture: Interface\AddOns\CustomNames_Blizzard\Media\Logo.tga
+## RequiredDeps: CustomNames
+## OptionalDeps: ViragDevTool
+## Category: Unit Frames
+## Category-deDE: Einheitenfenster
+## Category-esES: Marcos de unidades
+## Category-esMX: Marcos de unidades
+## Category-frFR: Portraits d'unités
+## Category-itIT: Riquadri delle unità
+## Category-koKR: 유닛프레임
+## Category-ptBR: Quadros de unidade
+## Category-ruRU: Рамки юнитов
+## Category-zhCN: 单位框体
+## Category-zhTW: 單位框架
+
+#Libs
+embeds.xml
+
+CustomNames_Blizzard.lua
