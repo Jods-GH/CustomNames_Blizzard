@@ -4,7 +4,7 @@
 ## Notes: Adds Blizzard Unit Frames support for CustomNames
 ## Author: Jods
 ## X-Curse-Project-ID: 1802198
-## X-Wago-ID: 
+## X-Wago-ID: vNAWwOKo
 ## IconTexture: Interface\AddOns\CustomNames_Blizzard\Media\Logo.tga
 ## RequiredDeps: CustomNames
 ## OptionalDeps: ViragDevTool
